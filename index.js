@@ -170,11 +170,6 @@ searchButton.addEventListener("click", () => {
 
 
 
-//search("health")
-
-// `${url}${query}&apiKey=${API_ID}`
-
-// window.addEventListener("load",()=>fetchnews("India"))
 
 
 
